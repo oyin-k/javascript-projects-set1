@@ -1,3 +1,3 @@
 # javascript projects set1
 
-10 mini javascript projects.
+Some mini javascript projects.
